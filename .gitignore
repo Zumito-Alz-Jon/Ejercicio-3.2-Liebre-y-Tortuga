@@ -1,0 +1,7 @@
+target/
+nb-configuration.xml
+*.class
+*.jar
+.DS_Store
+Thumbs.db
+.env
